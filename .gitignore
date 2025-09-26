@@ -1,0 +1,22 @@
+# Environment files (secrets)
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Caches and build outputs
+.cache/
+optimized/
+
+# Local keys and certificates
+Concept_rsa
+Concept_rsa.pub
+Concept_rsa (3).pub
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
